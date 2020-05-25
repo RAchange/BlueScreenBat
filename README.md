@@ -13,4 +13,4 @@ deploy.bat
 ## Demo
 Next time when you login...
 
-[video](https://youtube/6Ql-pKqyUpg)
+[video](https://youtu.be/6Ql-pKqyUpg)
