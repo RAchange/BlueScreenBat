@@ -13,4 +13,4 @@ deploy.bat
 ## Demo
 Next time when you login...
 
-{%youtube 6Ql-pKqyUpg%}
+[video](https://youtube/6Ql-pKqyUpg)
